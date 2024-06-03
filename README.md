@@ -1,4 +1,5 @@
 此页面所有源代码免费开源，仅供学习参考，请勿用于非法用途！请勿倒卖！任何非法行为与作者无关！！
+如有侵权行为，请联系我删除！
 
 All the source code of this page is free and open source, for learning reference only, do not use for illegal purposes!
 
